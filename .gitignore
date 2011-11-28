@@ -3,3 +3,4 @@
 *.sql
 cameras.txt
 text_split.php
+db.php
