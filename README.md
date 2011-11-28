@@ -28,7 +28,7 @@ _GO CRAZY!!_ My normal workflow is:
 	ruby clean_csvs.rb
 	open http://localhost/nikon-vs-canon/
 	
-### TODO
+### Todo
 
 1. Allow Ruby to interact with MySQL server directly.
 2. Combine fetch, convert and insert into database into one command.
@@ -60,5 +60,5 @@ Gah, do whatever you like with it! Distributed under the MIT License:
 Bonsoir!
 
 [canon-rebel-xsi]: http://www.amazon.com/Canon-Digital-Camera-18-55mm-3-5-5-6/dp/B0012YA85A
-[canon-rebel-t3i]:
+[canon-rebel-t3i]: http://usa.canon.com/cusa/consumer/products/cameras/slr_cameras/eos_rebel_t3i_18_55mm_is_ii_kit
 [nikon-d5100-kit]: http://www.nikonusa.com/Nikon-Products/Product/Digital-SLR-Cameras/25478/D5100.html
