@@ -1,0 +1,5 @@
+*.csv
+*.DS_Store
+*.sql
+cameras.txt
+text_split.php

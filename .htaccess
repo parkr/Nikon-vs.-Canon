@@ -1,0 +1,10 @@
+<IfModule mod_rewrite.c>
+
+#RewriteLog "nikon-vs-canon/rewrite.log"
+#RewriteLogLevel 3
+RewriteEngine On
+RewriteBase /nikon-vs-canon/
+RewriteRule ^count/([0-9]+)/?$ count.php?canon=$1 [L]
+RewriteRule ^count/([0-9]+)/([0-9]+)/([0-9]+)/?$ count.php?canon=$1&nikon=$2&winner=$3 [NC,L]
+
+</IfModule>
