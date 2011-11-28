@@ -4,7 +4,7 @@
 
 ### WTF, mate?
 
-When looking to upgrade my current [Canon Rebel XSi][canon-rebel-xsi] to something newer, 
+When looking to upgrade my current [Canon Rebel XSi][canon-rebel-xsi] to something newer, I found out that the [Canon Rebel T3i][canon-rebel-t3i] body would be the same as purchasing the [Nikon D5100 kit][nikon-d5100-kit]. So I embarked on a quest to figure out which camera I preferred **based solely on the pictures they took**. So I became familiar with the Flickr API, and Flickraw (THE GREATEST THING EVER), and began my journey! Here's the end product, though it isn't finished. I have a short TO-DO list below.
 
 ### Installation
 
@@ -27,6 +27,11 @@ _GO CRAZY!!_ My normal workflow is:
 	rm new.sql
 	ruby clean_csvs.rb
 	open http://localhost/nikon-vs-canon/
+	
+### TODO
+
+1. Allow Ruby to interact with MySQL server directly.
+2. Combine fetch, convert and insert into database into one command.
 
 ### License
 
@@ -55,3 +60,5 @@ Gah, do whatever you like with it! Distributed under the MIT License:
 Bonsoir!
 
 [canon-rebel-xsi]: http://www.amazon.com/Canon-Digital-Camera-18-55mm-3-5-5-6/dp/B0012YA85A
+[canon-rebel-t3i]:
+[nikon-d5100-kit]: http://www.nikonusa.com/Nikon-Products/Product/Digital-SLR-Cameras/25478/D5100.html
