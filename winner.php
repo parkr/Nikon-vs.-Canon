@@ -20,7 +20,7 @@ while($comp = mysql_fetch_assoc($r)){
 <html>
 <head>
 	<meta charset="utf-8">
-	<title>Who the winner be?</title>
+	<title>Who the Winner Be?</title>
 	<style type="text/css" media="screen">
 		@import url(http://fonts.googleapis.com/css?family=Signika:400,600,700,300);
 		html, body {
