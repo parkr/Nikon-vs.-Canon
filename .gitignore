@@ -1,6 +1,6 @@
 *.csv
 *.DS_Store
-*.sql
+new.sql
 cameras.txt
 text_split.php
 db.php
