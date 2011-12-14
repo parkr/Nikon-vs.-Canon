@@ -32,6 +32,7 @@ _GO CRAZY!!_ My normal workflow is:
 
 1. Allow Ruby to interact with MySQL server directly.
 2. Combine fetch, convert and insert into database into one command.
+3. Add metadata to photos (grab from Flickr) and display photos of a similar tag when comparing
 
 ### License
 
